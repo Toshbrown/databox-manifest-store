@@ -5,7 +5,7 @@
 	"version": "0.3.0",
 
 	"description": "A simple Databox app that plots mobile phone light sensor data",
-	"author": "Yousef Amar <yousef@amar.io> (http://yousefamar.com/)",
+	"author": "Tosh <Tosh@amar.io> (http://yousefamar.com/)",
 	"license": "MIT",
 
 	"databox-type":"app",
